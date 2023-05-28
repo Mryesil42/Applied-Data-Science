@@ -1,0 +1,491 @@
+id,model,price,currency,year,address,mileage,fuel_type,engine_power
+483,AUDI A5 Sportback 40 TDI S-Line quattro S-tronic,56940,CHF,05.2023,6010 Kriens,11'900,Diesel,204.0
+500,AUDI A5 Cabriolet 40 TFSi quattro,49800,CHF,05.2023,8623 Wetzikon ZH,5'000,Benzin,204.0
+509,AUDI A5 Sportback 45 TFSI S-Line S-tronic quattro,74900,CHF,05.2023,2555 Brügg bei Biel,3'500,Benzin,265.0
+527,AUDI A5 Sportback 40 TDI S-Line Attraction quattro S-tronic,59900,CHF,05.2023,6512 Giubiasco,3'500,Diesel,204.0
+562,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,92400,CHF,05.2023,8600 Dübendorf,7'100,Benzin,265.0
+578,AUDI A5 Sportback 40 TDI S-Line quattro S-tronic,68900,CHF,05.2023,6932 Breganzona,14'500,Diesel,204.0
+610,AUDI A5 Sportback 40 TDI S-Line quattro S-tronic,68600,CHF,05.2023,9435 Heerbrugg,7'000,Diesel,190.0
+384,AUDI A5 Cabriolet 40 TFSI S-Line COMPETITION PLUS S-tronic quattro Mythosschwarz Metallic,70990,CHF,05.2023,5634 Merenschwand,50,Benzin,204.0
+386,AUDI A5 Cabriolet 40 TFSI S-Line COMPETITION PLUS S-tronic quattro Mythosschwarz Metallic,69390,CHF,05.2023,5634 Merenschwand,50,Benzin,204.0
+401,AUDI A5 Cabriolet 40 TFSI S-Line COMPETITION PLUS S-tronic quattro Gletscherweiss Metallic,70910,CHF,05.2023,5634 Merenschwand,50,Benzin,204.0
+403,AUDI A5 Sportback 40 TDI S-Line Attraction quattro S-tronic,70800,CHF,05.2023,1095 Lutry,15,Diesel,204.0
+425,AUDI A5 Sportback 40 TDI S-Line Attraction quattro S-tronic,74700,CHF,05.2023,8730 Uznach,20,Diesel,204.0
+439,AUDI A5 Cabriolet 40 TFSI S-Line Attraction S-tronic quattro,84150,CHF,05.2023,6370 Stans,50,Benzin,204.0
+445,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,94888,CHF,05.2023,6343 Rotkreuz,49,Benzin,265.0
+450,AUDI A5 Sportback 40 TFSI S-tronic quattro,71290,CHF,05.2023,8803 Rüschlikon,10,Benzin,204.0
+455,AUDI A5 Sportback 40 TDI S-Line Attraction quattro S-tronic,78444,CHF,05.2023,6343 Rotkreuz,49,Diesel,204.0
+513,AUDI A5 Cabriolet 40 TFSI S-Line S-tronic quattro,78400,CHF,05.2023,6330 Cham,50,Benzin,204.0
+533,AUDI A5 Sportback 45 TFSI S-Line S-tronic quattro,79900,CHF,05.2023,8200 Schaffhausen,50,Benzin,265.0
+769,AUDI A5 Sportback 40 TDI S-Line Attraction quattro S-tronic,77800,CHF,05.2023,4900 Langenthal,1,Diesel,204.0
+835,AUDI A5 Sportback 40 TFSI advanced S-tronic,47900,CHF,05.2023,1400 Yverdon-les-Bains,100,Benzin,204.0
+367,AUDI A5 Sportback 40 TDI S-Line quattro S-tronic,65000,CHF,03.2023,4147 Aesch,5'000,Diesel,204.0
+368,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,57950,CHF,04.2022,4665 Oftringen,16'500,Benzin,265.0
+369,AUDI A5 Cabriolet 45 TFSI S-tronic Sport quattro,46900,CHF,06.2019,8750 Glarus,41'100,Benzin,245.0
+370,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,59999,CHF,05.2022,6340 Sihlbrugg,11'000,Benzin,265.0
+371,AUDI A5 Sportback 45 TFSI S-Line S-tronic quattro,48900,CHF,06.2021,8184 Bachenbülach,37'500,Benzin,265.0
+372,AUDI A5 Cabriolet 2.0 TFSI S-Line quattro S-tronic,23950,CHF,12.2011,9313 Muolen,89'700,Benzin,211.0
+373,AUDI A5 Sportback 2.0 TFSI Sport quattro S-Tronic,31900,CHF,10.2017,7310 Bad Ragaz,95'000,Benzin,252.0
+374,AUDI A5 Sportback 2.0 TDI quattro S-tronic,26800,CHF,10.2016,8303 Bassersdorf,65'000,Diesel,190.0
+375,AUDI A5 Coupé 2.0 TFSI multitronic,9500,CHF,08.2011,5600 Lenzburg,180'000,Benzin,211.0
+376,AUDI A5 Cabriolet 2.0 TFSI,14900,CHF,08.2009,8805 Richterswil,125'000,Benzin,211.0
+377,AUDI A5 Sportback 40 TDI Sport quattro S-tronic,35890,CHF,06.2019,1245 Collonge-Bellerive / Genève,50'990,Diesel,190.0
+378,AUDI A5 Coupé 3.0 TDI quattro,13300,CHF,08.2007,8620 Wetzikon,259'600,Diesel,239.0
+379,AUDI A5 Cabriolet 1.8 TFSI multitronic,15890,CHF,01.2014,8852 Altendorf,186'456,Benzin,170.0
+381,AUDI A5 Sportback 3.0 TDI Sport quattro S-tronic,37950,CHF,08.2018,8494 Bauma,76'000,Diesel,218.0
+382,AUDI A5 Cabriolet 2.0 40 TFSI Advanced S-Tr,49700,CHF,05.2022,8554 Bonau Wigoltingen,8'321,Benzin,205.0
+383,AUDI A5 Sportback 2.0 TDI quattro S-tronic,20200,CHF,12.2015,6343 Holzhäusern,155'500,Diesel,190.0
+385,AUDI A5 Cabrio 45 S-Line Quattro Automat ( CH-Fahrzeug mit Gratis Service ),54800,CHF,05.2022,6300 Zug,12'000,Benzin,265.0
+387,AUDI A5 Sportback 45 TFSI S-tronic quattro,35900,CHF,10.2020,9015 St. Gallen ,25'000,Benzin,265.0
+388,AUDI A5 Cabriolet 1.8 TFSI,9500,CHF,08.2012,8856 Tuggen,191'000,Benzin,170.0
+389,AUDI A5 Cabriolet 1.8 TFSI,9800,CHF,01.2012,8304 Wallisellen,168'000,Benzin,170.0
+390,AUDI A5 Coupé 3.2 FSI quattro tiptronic,14000,CHF,12.2007,4125 Riehen,107'000,Benzin,265.0
+391,AUDI A5 Sportback 2.0 TFSI quattro S-tronic,18000,CHF,12.2013,8105 Watt,106'054,Benzin,225.0
+392,AUDI A5 Sportback 40 TFSI Sport S-tronic,29990,CHF,10.2019,5723 Gränichen,110'000,Benzin,190.0
+393,AUDI A5 Sportback 45 TFSI S-tronic Sport quattro,50000,CHF,06.2020,1806 Saint-Légier,55'000,Benzin,245.0
+394,AUDI A5 Sportback 3.0 TDI clean diesel quattro S-tronic,28000,CHF,02.2016,8416 Flaach,77'200,Diesel,245.0
+395,AUDI A5 Coupé 2.0 TFSI quattro,11900,CHF,09.2009,8302 Kloten,126'000,Benzin,211.0
+396,AUDI A5 Cabriolet 2.0 TFSI,17500,CHF,04.2013,1004 Lausanne,103'000,Benzin,211.0
+397,AUDI A5 Cabriolet 2.0 TFSI multitronic,14997,CHF,07.2010,8816 Hirzel,103'000,Benzin,180.0
+398,AUDI A5 Cabrio 3.2 FSI quattro,14989,CHF,03.2011,5610 Wohlen (AG),115'041,Benzin,265.0
+399,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,54900,CHF,05.2022,6414 Oberarth,16'200,Benzin,265.0
+400,AUDI A5 Sportback 45 TFSI S-Line S-tronic quattro,51200,CHF,05.2022,9050 Appenzell,16'400,Benzin,265.0
+402,AUDI A5 Spb.40TDI S-Lin qu,58900,CHF,02.2022,8157 Dielsdorf,16'700,Diesel,204.0
+404,AUDI A5 Sportback 50 TDI Sport quattro tiptronic,42890,CHF,03.2019,8800 Thalwil,74'000,Diesel,286.0
+405,AUDI A5 Sportback 2.0 40 TFSI Sport S-Tronic,33900,CHF,05.2019,8105 Regensdorf,55'000,Benzin,190.0
+406,AUDI A5 Sportback 3.0 TDI Sport quattro tiptronic,35400,CHF,04.2017,8370 Sirnach,109'000,Diesel,272.0
+407,AUDI A5 Coupé 1.8 TFSI multitronic,21900,CHF,04.2015,8706 Meilen,71'500,Benzin,170.0
+408,AUDI A5 Cabriolet 2.0 TFSI,18100,CHF,04.2015,8049 Zürich,132'000,Benzin,225.0
+409,AUDI A5 Cabriolet 3.0 TDI multitronic,19980,CHF,09.2013,3422 Alchenflüh,105'000,Diesel,204.0
+410,AUDI A5 Cabriolet 35 TFSI Sport S-tronic,42900,CHF,01.2021,9470 Buchs,2'500,Benzin,150.0
+411,AUDI A5 Cabriolet 2.0 TFSI Sport quattro S-tronic,41500,CHF,03.2017,8633 Wolfhausen,36'700,Benzin,252.0
+412,AUDI A5 Coupé 3.0 TDI Sport quattro S-tronic,33500,CHF,12.2016,3013 Bern,115'000,Diesel,218.0
+380,AUDI A5 Cabriolet 40 TFSI S-Line Attraction S-tronic quattro,82900,CHF,05.2023,1095 Lutry,15,Benzin,204.0
+414,AUDI A5 Sportback 3.0 V6 TDI quattro S-Tronic,11900,CHF,10.2009,8400 Winterthur,194'000,Diesel,239.0
+415,AUDI A5 Sportback 3.2 FSI quattro S-tronic,8997,CHF,11.2009,8816 Hirzel,245'000,Benzin,265.0
+416,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,58900,CHF,05.2022,8756 Mitlödi,19'700,Benzin,265.0
+417,AUDI A5 Sportback 45 TFSI S-Line S-tronic quattro,46800,CHF,05.2022,8302 Kloten,22'150,Benzin,265.0
+418,AUDI A5 Sportback 45 TFSI S-Line S-tronic quattro,44800,CHF,09.2021,8302 Kloten,33'000,Benzin,265.0
+419,AUDI A5 Sportback 2.0 TFSI Sport quattro S-tronic,27990,CHF,10.2017,6423 Seewen SZ,150'100,Benzin,252.0
+420,AUDI A5 Sportback 2.0 TDI quattro S-tronic,19900,CHF,03.2016,8309 Nürensdorf / Zürich,190'221,Diesel,190.0
+421,AUDI A5 Cabriolet 45 TFSI S Line quattro S-Tronic,55980,CHF,04.2021,9500 Wil SG,18'900,Benzin,265.0
+422,AUDI A5 Cabriolet 40 TFSI Advanced quattro S-Tronic,50980,CHF,08.2021,9500 Wil SG,10'700,Benzin,204.0
+423,AUDI A5 Cabriolet 45 TFSI S Line quattro S-Tronic,54980,CHF,05.2021,9500 Wil SG,27'400,Benzin,265.0
+424,AUDI A5 Cabriolet 40 TFSI Advanced quattro S-Tronic,48980,CHF,07.2021,9500 Wil SG,12'900,Benzin,204.0
+426,AUDI A5 Cabriolet 45 TFSI S-tronic Design quattro,43900,CHF,08.2019,8756 Mitlödi,22'100,Benzin,245.0
+427,AUDI A5 Sportback 3.0 TDI Sport quattro tiptronic,39900,CHF,12.2018,8604 Volketswil / Zürich,83'792,Diesel,286.0
+428,AUDI A5 Sportback 45 TFSI advanced S-tronic quattro,43999,CHF,01.2021,8852 Altendorf,39'456,Benzin,265.0
+429,AUDI A5 Sportback 45 TFSI S-tronic Sport quattro,37999,CHF,09.2019,8852 Altendorf,40'456,Benzin,245.0
+430,AUDI A5 Sportback 50 TDI S-Line quattro tiptronic,65890,CHF,03.2021,9545 Wängi,24'600,Diesel,286.0
+431,AUDI A5 Sportback 3.0 TDI Design quattro tiptronic,36900,CHF,07.2018,9507 Stettfurt (TG) 30 min von Zürich,137'350,Diesel,272.0
+433,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,55450,CHF,05.2022,8046 Zürich-Affoltern,19'000,Benzin,265.0
+434,AUDI A5 Coupé 2.0 TDI quattro S-tronic,12999,CHF,07.2013,4900 Langenthal,172'000,Diesel,177.0
+435,AUDI A5 Coupé 2.0 TFSI Sport quattro S-tronic,42220,CHF,11.2018,9050 Appenzell,27'500,Benzin,252.0
+436,AUDI A5 Coupé 50 TDI S-Line quattro tiptronic,53990,CHF,04.2021,8865 Bilten,24'400,Diesel,286.0
+437,AUDI A5 Sportback 3.0 TDI quattro S-tronic,29900,CHF,11.2016,1950 Sion,102'000,Diesel,218.0
+438,AUDI A5 Cabriolet 40 TFSI S-Line S-tronic quattro Gletscherweiss Metallic,58250,CHF,01.2022,5634 Merenschwand,14'600,Benzin,204.0
+440,AUDI A5 Cabriolet 2.0 45 TFSI S Line quattro S-Tronic,63900,CHF,05.2021,9245 Oberbüren,9'900,Benzin,265.0
+441,AUDI A5 Sportback 2.0 TFSI Sport S-Tronic  *CH-FAHRZEUG*,29900,CHF,06.2018,8400 Winterthur,104'000,Benzin,190.0
+442,AUDI A5 Sportback 2.0 TDI quattro,11490,CHF,01.2010,8730 Uznach,250'450,Diesel,170.0
+443,AUDI A5 Cabriolet 40 TFSI S-Line S-tronic quattro Mythosschwarz Metallic,60990,CHF,06.2022,5634 Merenschwand,9'600,Benzin,204.0
+444,AUDI A5 Cabriolet 3.0 TDI quattro S-tronic,16500,CHF,09.2012,8340 Hinwil,185'900,Diesel,245.0
+446,AUDI A5 Sportback 2.0 TDI Sport quattro S-tronic,39500,CHF,04.2019,6596 Gordola,43'000,Diesel,190.0
+447,AUDI A5 Sportback 2.0 TDI quattro S-tronic,29900,CHF,12.2016,8865 Bilten,78'100,Diesel,190.0
+448,AUDI A5 Cabriolet 2.0 TDI S-tronic,34990,CHF,07.2018,1217 Meyrin,63'000,Diesel,190.0
+449,AUDI A5 Cabriolet 2.0 TFSI,13700,CHF,06.2009,8606 Nänikon,124'834,Benzin,211.0
+451,AUDI A5 Coupé 40 TDI Advanced quattro S-tronic Mythosschwarz Metallic,55390,CHF,05.2021,5634 Merenschwand,35'250,Diesel,204.0
+452,AUDI A5 Cabriolet 2.0 TFSI Sport quattro S-Tronic S-Line,34700,CHF,11.2017,9320 Arbon ,99'700,Benzin,252.0
+453,AUDI A5 Cabriolet 2.0 TFSI Sport quattro S-tronic,44900,CHF,11.2018,9050 Appenzell,63'800,Benzin,252.0
+454,AUDI A5 Sportback 45 TFSI S-Line S-tronic quattro,72888,CHF,09.2022,6343 Rotkreuz,15'900,Benzin,265.0
+456,AUDI A5 Coupé 2.0 TDI Sport S-tronic,31900,CHF,10.2017,9545 Wängi,94'500,Diesel,190.0
+457,AUDI A5 Sportback 50 TDI Sport quattro tiptronic,47899,CHF,03.2019,5330 Bad Zurzach,79'900,Diesel,286.0
+458,AUDI A5 Coupé 40 TFSI Sport S-tronic,37910,CHF,02.2019,9050 Appenzell,24'200,Benzin,190.0
+459,AUDI A5 Sportback 40 TFSI S-Line S-tronic quattro,72700,CHF,12.2022,8853 Lachen,10'000,Benzin,204.0
+460,AUDI A5 Sportback 40 TDI S-Line quattro S-tronic,57120,CHF,01.2022,9050 Appenzell,11'000,Diesel,204.0
+461,AUDI A5 Cabriolet 2.0 TDI 190 Sport S-Tronic,32700,CHF,06.2017,9320 Arbon ,105'000,Diesel,190.0
+462,AUDI A5 Sportback 2.0 TFSI Sport quattro S-Tronic,29900,CHF,10.2017,8400 Winterthur,101'000,Benzin,252.0
+463,AUDI A5 Sportback 2.0 TDI multitronic,16400,CHF,12.2015,3186 Düdingen,175'000,Diesel,190.0
+464,AUDI A5 Cabriolet 40 TFSI Advanced quattro S-Tronic,49980,CHF,08.2021,9500 Wil SG,12'550,Benzin,204.0
+465,AUDI A5 Cabriolet 40 TFSI advanced S-tronic quattro,58744,CHF,05.2021,3414 Oberburg,22'000,Benzin,204.0
+466,AUDI A5 Sportback 45 TFSI S-tronic Sport quattro,44900,CHF,07.2020,8600 Dübendorf,51'900,Benzin,245.0
+467,AUDI A5 Coupé 2.0 TFSI Sport quattro S-tronic,37900,CHF,11.2016,8853 Lachen,48'000,Benzin,252.0
+468,AUDI A5 Sportback 2.0 TDI 190 Sport S-Tronic,29800,CHF,08.2017,9320 Arbon ,89'000,Diesel,190.0
+469,AUDI A5 Cabriolet 40 TFSI S-Line Attraction S-tronic quattro,56230,CHF,08.2021,9050 Appenzell,5'800,Benzin,204.0
+470,AUDI A5 Sportback 45 TFSI S-Line S-tronic quattro,52844,CHF,02.2021,3414 Oberburg,25'500,Benzin,265.0
+471,AUDI A5 Coupé 3.0 TDI Sport quattro S-tronic,38700,CHF,07.2017,1950 SION,29'000,Diesel,218.0
+472,AUDI A5 Sportback 45 TFSI S-Line S-tronic quattro,52400,CHF,01.2021,8853 Lachen,26'900,Benzin,265.0
+473,AUDI A5 Cabriolet 2.0 TFSI Sport quattro S-tronic - S-Line - Matrix LED - B&O - Virtual Cockpit - 252 PS,43800,CHF,06.2017,8620 Wetzikon,19'990,Benzin,252.0
+474,AUDI A5 Sportback 2.0 TFSI Design,28980,CHF,10.2017,6260 Reiden,65'176,Benzin,190.0
+475,AUDI A5 Sportback 50 TDI Sport quattro tiptronic,46990,CHF,01.2020,9466 Sennwald,44'500,Diesel,286.0
+476,AUDI A5 Sportback 50 TDI Sport quattro tiptronic - S-Line - 5 Sitzplätze - Matrix LED - 286 PS,39800,CHF,07.2018,8620 Wetzikon,64'900,Diesel,286.0
+477,AUDI A5 Cabriolet S-Line 1.8 TFSI multitronic,19900,CHF,02.2013,8620 Wetzikon ZH,92'500,Benzin,170.0
+478,AUDI A5 Sportback 2.0 TDI,17900,CHF,01.2014,8604 Hegnau / Volketswil,115'600,Diesel,177.0
+479,AUDI A5 Sportback 45 TFSI S-Line S-tronic quattro,52900,CHF,08.2022,8604 Volketswil,17'500,Benzin,265.0
+480,AUDI A5 Sportback 45 TFSI S-Line S-tronic quattro,46888,CHF,07.2021,6340 Sihlbrugg,29'500,Benzin,265.0
+481,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,59980,CHF,05.2022,5442 Fislisbach,14'900,Benzin,265.0
+482,AUDI A5 Cabriolet 3.0 TFSI quattro S-tronic,28900,CHF,05.2015,8804 Au-Wädenswil,62'000,Benzin,272.0
+432,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,92888,CHF,05.2023,6343 Rotkreuz,49,Benzin,265.0
+484,AUDI A5 Sportback 2.0 TDI S-tronic,29900,CHF,11.2017,3360 Herzogenbuchsee,100'500,Diesel,190.0
+485,AUDI A5 Cabriolet 1.8 TFSI multitronic,24800,CHF,03.2016,5707 Seengen,56'100,Benzin,177.0
+486,AUDI A5 Sportback 45 TDI S-Line Sport quattro tiptronic,39999,CHF,11.2019,9437 Marbach SG,62'000,Diesel,231.0
+487,AUDI A5 Cabriolet 45 TFSI S-tronic Sport quattro,43500,CHF,05.2019,8634 Hombrechtikon,39'900,Benzin,245.0
+488,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,58990,CHF,04.2022,5116 Schinznach-Bad,19'500,Benzin,265.0
+489,AUDI A5 Sportback 2.0 TFSI Design quattro S-tronic,34900,CHF,05.2017,8112 Otelfingen,40'900,Benzin,252.0
+492,AUDI A5 Sportback 45 TFSI S-tronic Sport quattro,41900,CHF,05.2019,8008 Zürich,55'000,Benzin,245.0
+493,AUDI A5 Cabriolet 1.8 TFSI multitronic,16500,CHF,03.2013,8112 Otelfingen,144'900,Benzin,170.0
+494,AUDI A5 Cabriolet 40 TFSI advanced S-tronic quattro,58900,CHF,07.2022,8344 Bäretswil,7'700,Benzin,204.0
+495,AUDI A5 Sportback 40 TFSI S-Line Attraction S-tronic quattro,69910,CHF,05.2022,3053 Münchenbuchsee,12'700,Benzin,204.0
+496,AUDI A5 Sportback 45 TFSI S-Line S-tronic quattro,57700,CHF,05.2022,4528 Zuchwil,14'000,Benzin,265.0
+497,AUDI A5 Cabrio 40TFSI adv Att,44900,CHF,06.2021,8274 Tägerwilen,24'900,Benzin,204.0
+498,AUDI A5 Sportback 40 TDI advanced S-tronic,40900,CHF,03.2022,8952 Schlieren,8'900,Diesel,204.0
+499,AUDI A5 Sportback 45 TFSI S-Line S-tronic quattro,55590,CHF,08.2022,8645 Rapperswil - Jona,17'500,Benzin,265.0
+490,AUDI A5 Sportback 45 TFSI S-Line S-tronic quattro,84535,CHF,05.2023,9435 Heerbrugg,50,Benzin,265.0
+501,AUDI A5 Coupé 2.0 TDI quattro,18900,CHF,08.2015,3900 Brig-Gamsen,97'964,Diesel,190.0
+502,AUDI A5 Cabriolet 2.0 TFSI Sport quattro S-tronic,44900,CHF,12.2017,6340 Sihlbrugg,25'000,Benzin,252.0
+503,AUDI A5 Sportback 2.0 45 TFSI Advanced quattro S-Tronic,38900,CHF,11.2020,5502 Hunzenschwil,34'160,Benzin,265.0
+504,AUDI A5 Sportback 2.0 TFSI g-tron Sport S-Line S-tronic,27900,CHF,08.2018,6210 Sursee,76'000,Benzin,170.0
+505,AUDI A5 Sportback 2.0 TDI Sport quattro S-tronic,32990,CHF,11.2017,4133 Pratteln,120'500,Diesel,190.0
+506,AUDI A5 Sportback 40 TDI Sport quattro S-tronic,31900,CHF,10.2019,1197 Prangins (Nyon),104'000,Diesel,190.0
+507,AUDI A5 Sportback 45 TFSI S-Line S-tronic quattro,46900,CHF,09.2021,1163 Etoy,34'825,Benzin,265.0
+508,AUDI A5 Coupé 3.2 FSI quattro tiptronic,9800,CHF,08.2008,4461 Böckten,265'500,Benzin,265.0
+491,AUDI A5 Sportback 40 TDI S-Line quattro S-tronic,70900,CHF,05.2023,7000 Chur,50,Diesel,204.0
+510,AUDI A5 Sportback 2.0 TDI Sport quattro S-tronic,40790,CHF,05.2019,9490 Vaduz,33'777,Diesel,190.0
+511,AUDI A5 Cabrio 3.2 FSI,13900,CHF,06.2009,4950 Huttwil,120'500,Benzin,265.0
+514,AUDI A5 Cabriolet 2.0 TFSI quattro S-tronic,14800,CHF,05.2011,8620 Wetzikon,101'500,Benzin,211.0
+515,AUDI A5 Sportback 2.0 TDI Sport quattro S-tronic,36900,CHF,05.2018,6926 Collina D'oro TI,48'100,Diesel,190.0
+516,AUDI A5 Cabriolet 2.0 40 TFSI Sport S-Tronic S-LINE innen+aussen,39750,CHF,03.2019,9320 Arbon,38'000,Benzin,190.0
+517,AUDI A5 Sportback 2.0 TDI Sport quattro S-tronic,32800,CHF,09.2017,4528 Zuchwil,102'000,Diesel,190.0
+518,AUDI A5 Sportback 45 TFSI S-tronic quattro,39900,CHF,02.2019,9435 Heerbrugg,64'060,Benzin,245.0
+519,AUDI A5 Sportback 40 TDI Sport quattro S-tronic,39500,CHF,05.2019,5034 Suhr,63'500,Diesel,190.0
+520,AUDI A5 Sportback 50 TDI Sport quattro tiptronic,38999,CHF,04.2019,4133 Pratteln,126'686,Diesel,286.0
+521,AUDI A5 Coupé 3.0 TDI quattro,5500,CHF,09.2007,8618 Oetwil am See,318'000,Diesel,239.0
+522,AUDI A5 Cabriolet 40 TFSI S-Line Attraction S-tronic quattro,56555,CHF,10.2021,6340 Sihlbrugg,21'000,Benzin,204.0
+523,AUDI A5 Sportback 45 TFSI advanced S-tronic quattro,35900,CHF,11.2020,6010 Kriens,27'000,Benzin,265.0
+524,AUDI A5 Sportback 45 TFSI advanced S-tronic quattro,35450,CHF,10.2020,6010 Kriens,38'000,Benzin,265.0
+525,AUDI A5 Sportback 45 TFSI advanced S-tronic quattro,35850,CHF,09.2020,6010 Kriens,28'800,Benzin,265.0
+526,AUDI A5 Sportback 40 TDI advanced quattro S-tronic,65900,CHF,01.2023,8344 Bäretswil,15,Diesel,204.0
+512,AUDI A5 Cabriolet 40 TFSI S-Line S-tronic quattro,80850,CHF,05.2023,6330 Cham,50,Benzin,204.0
+528,AUDI A5 Sportback 40 TFSI S-Line S-tronic quattro,59900,CHF,12.2022,8344 Bäretswil,7'500,Benzin,204.0
+529,AUDI A5 Sportback 3.2 FSI quattro S-tronic,10900,CHF,03.2010,6330 Cham - Zug ,165'000,Benzin,265.0
+530,AUDI A5 Sportback 40 TDI quattro S-tronic,62900,CHF,10.2021,8600 Dübendorf,11'000,Diesel,204.0
+531,AUDI A5 Cabriolet 1.8 TFSI,12500,CHF,06.2012,8307 Effretikon,166'300,Benzin,170.0
+532,AUDI A5 Sportback 2.0 TFSI Sport S-tronic,27500,CHF,06.2018,9450 Altstätten ,102'000,Benzin,190.0
+534,AUDI A5 Sportback 45 TFSI advanced S-tronic quattro,35500,CHF,10.2020,8952 Schlieren,24'900,Benzin,265.0
+535,AUDI A5 Cabriolet 2.0 TFSI Sport S-tronic,31500,CHF,03.2019,1870 Monthey,111'700,Benzin,190.0
+536,AUDI A5 Sportback 45 TFSI advanced S-tronic quattro,36500,CHF,12.2020,8952 Schlieren,23'400,Benzin,265.0
+537,AUDI A5 Coupé S-Line 2.0 TFSI multitronic,10500,CHF,12.2010,6330 Cham - Zug ,147'000,Benzin,180.0
+538,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,63990,CHF,05.2022,4133 Pratteln BL ,18'400,Benzin,265.0
+539,AUDI A5 Sportback 45 TDI quattro tiptronic,42990,CHF,02.2020,5210 Windisch,36'500,Diesel,231.0
+540,AUDI A5 Sportback 45 TFSI advanced S-tronic quattro,34500,CHF,10.2020,8952 Schlieren,27'300,Benzin,265.0
+541,AUDI A5 Cabriolet 2.0 TFSI multitronic,12990,CHF,04.2011,6330 Cham,184'000,Benzin,211.0
+542,AUDI A5 Sportback 40 TFSI Sport S-tronic S-Line,34800,CHF,06.2019,6023 Rothenburg,73'500,Benzin,190.0
+543,AUDI A5 Sportback 3.0 TDI quattro S-tronic,17900,CHF,11.2011,1219 Châtelaine,134'000,Diesel,239.0
+544,AUDI A5 Cabriolet 40 TFSI S-tronic,47800,CHF,06.2020,5707 Seengen,23'900,Benzin,190.0
+545,AUDI A5 Sportback 3.0 TDI quattro S-tronic,13900,CHF,05.2012,4852 Rothrist,206'000,Diesel,245.0
+546,AUDI A5 Sportback 40 TDi quattro S line,42800,CHF,05.2019,8623 Wetzikon ZH,39'000,Diesel,190.0
+547,AUDI A5 Sportback 2.0 TFSI quattro S-tronic,26900,CHF,12.2012,1950 Sion,68'500,Benzin,211.0
+548,AUDI A5 Sportback 40 TDI S-Line Attraction quattro S-tronic,69990,CHF,11.2022,6010 Kriens,11'900,Diesel,204.0
+549,AUDI A5 Cabriolet 45 TFSI S-tronic Sport quattro,43990,CHF,04.2019,6215 Beromünster,58'000,Benzin,245.0
+551,AUDI A5 Sportback 45 TFSI advanced S-tronic quattro,45900,CHF,09.2022,8952 Schlieren,6'600,Benzin,265.0
+552,AUDI A5 Cabriolet 2.0 TFSI Sport quattro S-tronic,44500,CHF,12.2018,6594 Contone,59'247,Benzin,252.0
+553,AUDI A5 Cabriolet 1.8 TFSI S-Line,29900,CHF,08.2016,9500 Wil,71'000,Benzin,177.0
+554,AUDI A5 Coupé 2.0 TFSI quattro** 211 PS **,9990,CHF,04.2010,5210 Windisch,168'000,Benzin,211.0
+555,AUDI A5 Sportback 3.0 TDI Sport quattro tiptronic,35900,CHF,05.2017,3110 Münsingen,146'000,Diesel,272.0
+556,AUDI A5 Sportback 2.0 TDI S-Line quattro,27500,CHF,08.2018,8607 Aathal-Seegräben,152'000,Diesel,190.0
+557,AUDI A5 Cabriolet 3.0 TDI quattro S-tronic,20900,CHF,12.2013,3550 Langnau i. E.,126'500,Diesel,245.0
+558,AUDI A5 Sportback 2.0 TFSI Design S-tronic,35300,CHF,04.2018,6850 Mendrisio,37'600,Benzin,190.0
+559,AUDI A5 Sportback 40 TDI advanced Attraction quattro S-tronic,50800,CHF,03.2022,1525 Seigneux (VD),34'000,Diesel,204.0
+560,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,62870,CHF,04.2022,1753 Matran (FR),21'783,Benzin,265.0
+561,AUDI A5 Sportback 2.0 TDI Sport quattro S-tronic,42520,CHF,10.2019,1845 Noville,22'500,Diesel,190.0
+550,AUDI A5 Cabriolet 40 TFSI S-Line S-tronic quattro,87900,CHF,05.2023,8406 Winterthur-Töss,50,Benzin,204.0
+563,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,58990,CHF,04.2022,4133 Pratteln BL ,18'500,Benzin,265.0
+564,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,61900,CHF,04.2022,6340 Sihlbrugg,20'000,Benzin,265.0
+565,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,59999,CHF,05.2022,6340 Sihlbrugg,14'400,Benzin,265.0
+566,AUDI A5 Sportback 45 TFSI advanced S-tronic quattro,55230,CHF,06.2022,6010 Kriens,11'856,Benzin,265.0
+567,AUDI A5 Sportback 3.0 TDI clean diesel Quattro S-tronic (Automat),18900,CHF,10.2016,8604 Hegnau / Volketswil,172'500,Diesel,245.0
+568,AUDI A5 Coupé 2.0 TFSI Sport quattro S-tronic,32900,CHF,08.2017,1950 Sion,106'690,Benzin,252.0
+569,AUDI A5 Sportba.3.0 TDI Sp qu,39999,CHF,06.2018,9601 Lütisburg Station,112'000,Diesel,286.0
+570,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,59999,CHF,04.2022,6340 Sihlbrugg,17'600,Benzin,265.0
+571,AUDI A5 SPORTBACK 2.0 TDI S-LINE SPORT QUATTRO S-TRONIC l 190 PS,38888,CHF,01.2018,4310 Rheinfelden,44'000,Diesel,190.0
+572,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,63290,CHF,06.2022,6035 Perlen,10'337,Benzin,265.0
+573,AUDI A5 Sportback 2.0 TFSI quattro S-tronic,14800,CHF,03.2010,8340 Hinwil,137'000,Benzin,211.0
+574,AUDI A5 Sportback 2.0 TDI S-Line *5-Plätzer* Sport quattro S-tronic *CH-Fahrzeug*,33900,CHF,10.2018,6210 Sursee,74'000,Diesel,190.0
+575,AUDI A5 Sportback 45 TDI Sport quattro,42900,CHF,03.2021,8607 Aathal-Seegräben,33'000,Diesel,231.0
+576,AUDI A5 Coupé 2.0 TDI,19890,CHF,05.2013,8310 Kemptthal,90'000,Diesel,177.0
+577,AUDI A5 Coupé 2.0 TFSI Sport quattro S-tronic,32960,CHF,11.2016,9490 Vaduz,40'010,Benzin,252.0
+595,AUDI A5 Sportback 40 TDI S-Line Attraction quattro S-tronic,68900,CHF,05.2023,8200 Schaffhausen,50,Diesel,204.0
+579,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,64500,CHF,05.2022,6340 Sihlbrugg,22'950,Benzin,265.0
+580,AUDI A5 Sportback 2.0 TDI Sport quattro S-tronic,35900,CHF,12.2018,6512 Giubiasco,47'000,Diesel,190.0
+581,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,66200,CHF,02.2022,8706 Feldmeilen,5'600,Benzin,265.0
+582,AUDI A5 Cabriolet 2.0 TFSI Sport quattro S-tronic,41900,CHF,06.2017,4104 Oberwil BL,58'000,Benzin,252.0
+583,AUDI A5 Coupé 2.0 TFSI quattro S-tronic,11999,CHF,04.2011,4226 Breitenbach SO,158'000,Benzin,211.0
+584,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,56990,CHF,04.2022,4133 Pratteln BL ,15'100,Benzin,265.0
+585,AUDI A5 Coupé 2.0 TFSI,7990,CHF,05.2009,5210 Windisch,186'600,Benzin,180.0
+586,AUDI A5 Cabriolet 40 TFSI S-Line Attraction S-tronic quattro,75900,CHF,05.2022,5600 Lenzburg,6'800,Benzin,204.0
+587,AUDI A5 Sportback 40 TFSI S-tronic quattro,66980,CHF,11.2022,5442 Fislisbach,15'000,Benzin,204.0
+588,AUDI A5 Cabriolet 40 TFSI Attraction S-tronic quattro,62990,CHF,03.2022,8184 Bachenbülach,2'500,Benzin,204.0
+589,AUDI A5 Sportback 40 TDI Sport quattro S-tronic,33980,CHF,08.2019,1723  Marly,127'800,Diesel,190.0
+590,AUDI A5 Cabriolet 40 TFSI S-Line S-tronic quattro,69900,CHF,07.2022,6330 Cham,5'500,Benzin,204.0
+591,AUDI A5 Sportback 2.0 TDI quattro S-tronic S-line,27900,CHF,03.2016,1122  Romanel-sur-Morges,92'000,Diesel,190.0
+592,AUDI A5 Cabriolet 2.7 TDI,16990,CHF,05.2010,9548 Matzingen,102'000,Diesel,190.0
+593,AUDI A5 Sportback 40TFSI g-tron S-tronic,29900,CHF,07.2019,1860 Aigle,117'000,Übrige,170.0
+594,AUDI A5 S-Line Sportback 2.0 TFSI Sport quattro S-tronic,29900,CHF,06.2018,6010 Kriens,144'200,Benzin,252.0
+596,AUDI A5 Cabriolet 45 TFSI S-tronic Sport quattro,43490,CHF,04.2019,8810 Horgen,34'500,Benzin,245.0
+597,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,54500,CHF,03.2021,8607 Aathal-Seegräben,20'000,Benzin,265.0
+598,AUDI A5 Cabriolet 40 TFSI S-Line Attraction S-tronic,47500,CHF,05.2021,8607 Aathal-Seegräben,8'000,Benzin,204.0
+599,AUDI A5 Sportback 40 TFSI S-Line Attraction S-tronic quattro,53500,CHF,10.2021,3053 Münchenbuchsee,7'000,Benzin,204.0
+600,AUDI A5 Sportback 2.0 TDI,9900,CHF,02.2011,6287 Aesch,228'139,Diesel,170.0
+601,AUDI A5 Cabriolet 1.8 TFSI multitronic S-Line,22999,CHF,12.2014,4226 Breitenbach SO,67'000,Benzin,170.0
+602,AUDI A5 Sportback 1.8 TFSI multitronic,20990,CHF,10.2015,4133 Pratteln,99'500,Benzin,177.0
+603,AUDI A5 Cabriolet 2.0 TFSI Sport S-tronic M-HEV,39800,CHF,06.2018,6030 Ebikon- Luzern,83'200,Benzin,190.0
+604,AUDI A5 Cabriolet 45 TFSI S-Line S-tronic quattro,77800,CHF,06.2022,2542 PIETERLEN,1'300,Benzin,265.0
+605,AUDI A5 Sportback 40 TDI S-Line S-tronic,55990,CHF,04.2021,4133 Pratteln BL ,30'700,Diesel,190.0
+606,AUDI A5 Sportback 2.0 TDI Sport quattro S-tronic,36900,CHF,10.2018,3770 Zweisimmen,72'000,Diesel,190.0
+607,"AUDI A5 Sportback 40 TFSI S-Line Attraction ""Top Ausstattung"" S-tronic quattro",58800,CHF,05.2021,5000 Aarau,29'600,Benzin,204.0
+608,AUDI A5 Cabriolet 2.0 TFSI S line Sport quattro S-tronic,43900,CHF,09.2018,8620 Wetzikon,79'300,Benzin,252.0
+609,AUDI A5 Sportback 2.0 TDI,16550,CHF,06.2014,8610 Uster (ZH),105'000,Diesel,177.0
+611,AUDI A5 Cabriolet 1.8 TFSI multitronic,21900,CHF,03.2013,8400 Winterthur,48'900,Benzin,170.0
+612,AUDI A5 Sportback 2.0 TDI,19850,CHF,12.2013,8610 Uster (ZH),77'000,Diesel,177.0
+613,AUDI A5 Cabriolet 2.0 TFSI Sport S-tronic,39800,CHF,01.2019,8340 Hinwil,37'000,Benzin,190.0
+614,AUDI A5 Sportback 40 TFSI S-tronic,42800,CHF,11.2020,8340 Hinwil,14'000,Benzin,190.0
+615,AUDI A5 Cabriolet 40 TFSI Design S-tronic,39900,CHF,06.2019,8952 Schlieren,19'900,Benzin,190.0
+616,AUDI A5 Cabriolet 2.0 TFSI multitronic S-Line,15900,CHF,03.2010,4147 Aesch,102'150,Benzin,211.0
+617,AUDI A5 Sportback 45 TFSI quattro S-tronic,45900,CHF,06.2020,6030 Ebikon- Luzern,19'000,Benzin,245.0
+618,AUDI A5 Cabriolet 2.0 TFSI quattro S-tronic,39999,CHF,03.2018,1295 mies,44'500,Benzin,252.0
+619,AUDI A5 Cabriolet 2.0 TFSI quattro S-tronic,13400,CHF,07.2010,9492 Eschen,106'700,Benzin,211.0
+620,AUDI A5 Sportback 2.0 TFSI quattro S-tronic,20999,CHF,10.2013,6010 Kriens,109'805,Benzin,211.0
+621,AUDI A5 Sportback 2.0 TDI quattro S-tronic,17500,CHF,07.2014,9242 Oberuzwil,148'000,Diesel,190.0
+622,AUDI A5 Coupé 3.0 TDI quattro,18000,CHF,12.2007,8942 Oberrieden,182'000,Diesel,239.0
+623,AUDI A5 Coupé 3.2 FSI quattro tiptronic,6850,CHF,04.2008,5033 Buchs,265'000,Benzin,265.0
+624,AUDI A5 Sportback 45 TFSI S-tronic quattro,40000,CHF,10.2019,1073 Mollie Margot,44'000,Benzin,245.0
+625,AUDI A5 Coupé 3.2 FSI quattro tiptronic,10500,CHF,09.2008,6332 Hagendorn,177'000,Benzin,265.0
+626,AUDI A5 Coupé 2.0 TFSI,7999,CHF,07.2009,8474 Dinhard,247'000,Benzin,180.0
+627,AUDI A5 Cabriolet 3.0 TDI quattro S-tronic,14000,CHF,11.2009,7000 Chur,151'000,Diesel,239.0
+628,AUDI A5 Coupé 3.2 FSI quattro tiptronic,13500,CHF,07.2008,5420 Ehrendingen,168'000,Benzin,265.0
+629,AUDI A5 SPORTBACK 2.0 TDI S-LINE SPORT QUATTRO S-TRONIC l 190 PS,34900,CHF,05.2018,8193 Eglisau,60'600,Diesel,190.0
+630,AUDI A5 Cabriolet 2.0 TFSI multitronic,10900,CHF,12.2012,8360 Eschlikon,220'000,Benzin,211.0
+631,AUDI A5 Sportback 2.0 TFSI quattro S-tronic,18000,CHF,06.2015,8907 Wettswil,102'000,Benzin,225.0
+632,AUDI A5 Coupé 2.0 TFSI multitronic,10900,CHF,06.2012,5742 Kölliken,159'800,Benzin,211.0
+633,AUDI A5 Coupé 2.0 TDI quattro S-tronic,12250,CHF,12.2014,3280 murten,198'000,Diesel,190.0
+634,AUDI A5,33700,CHF,03.2018,9100 Herisau,96'800,Diesel,258.0
+635,AUDI A5 Sportback 2.0 TFSI,7900,CHF,06.2011,3186 Düdingen,211'000,Benzin,180.0
+636,AUDI A5 Cabriolet 1.8 TFSI multitronic,16499,CHF,04.2013,1201 Genève,86'000,Benzin,170.0
+637,AUDI A5 Sportback 2.0 TFSI Sport S-tronic,32500,CHF,11.2018,8046 Zürich,43'000,Benzin,190.0
+638,AUDI A5 Sportback 40 TDI S-Line Attraction quattro S-tronic,47000,CHF,03.2021,4512 Bellach,53'000,Diesel,204.0
+639,AUDI A5 Cabriolet 2.0 TFSI quattro S-tronic,10500,CHF,12.2010,1231 Conches,170'000,Benzin,211.0
+640,AUDI A5 Cabriolet 2.0 TFSI quattro S-tronic,19000,CHF,04.2013,4051 Basel,132'000,Benzin,211.0
+641,AUDI A5 Cabriolet 2.0 TFSI,7900,CHF,05.2009,9000 St.Gallen,210'500,Benzin,211.0
+642,AUDI A5 Cabriolet 2.0 TFSI quattro S-tronic,22800,CHF,05.2014,9242 Oberuzwil,121'500,Benzin,225.0
+643,AUDI AUDI A5 Sportback 2.0 35 TDI S Line S-Tronic,49990,CHF,11.2022,1211 Genève 26,18'120,Diesel,163.0
+644,AUDI A5 Cabriolet 2.0 TDI multitronic,19999,CHF,09.2013,8808 Pfäffikon SZ,93'500,Diesel,177.0
+645,AUDI A5 Sportback 2.0 TDI Sport quattro S-tronic,33900,CHF,06.2017,6030 Ebikon,75'000,Diesel,190.0
+646,AUDI A5 Sportback 2.0 TDI 150,19890,CHF,11.2015,4623 Neuendorf,94'222,Diesel,150.0
+647,AUDI A5 Sportback 3.0 TDI clean diesel quattro S-Line*,27990,CHF,07.2015,6370 Stans,83'000,Diesel,245.0
+648,AUDI A5 Sportback 1.8 TFSI multitronic,17500,CHF,02.2014,4658 Däniken,118'000,Benzin,170.0
+649,AUDI A5 Sportback 2.0 TFSI quattro S-tronic,21999,CHF,01.2011,3084 Wabern,47'800,Benzin,211.0
+650,AUDI A5 Sportback 2.0 TFSI quattro S-tronic,18890,CHF,07.2013,8309 Nürensdorf,101'500,Benzin,225.0
+651,AUDI A5 Sportback 40 TFSI S-tronic,32850,CHF,02.2019,9242 Oberuzwil,58'500,Benzin,190.0
+652,AUDI A5 Sportback 40 TDI Design quattro S-tronic,30000,CHF,04.2019,8340 Hinwil,99'900,Diesel,190.0
+653,AUDI A5 Sportback 2.0 TDI quattro S-tronic,19900,CHF,06.2015,9556 Affeltrangen,158'700,Diesel,190.0
+654,AUDI A5 Sportback 2.0 TFSI Design quattro S-tronic **Frisch ab MFK**,29900,CHF,03.2018,8953 Dietikon,83'000,Benzin,252.0
+655,AUDI A5 Sportback 40 TDI S-Line quattro S-tronic,55900,CHF,07.2022,4446 Buckten,16'000,Diesel,204.0
+656,AUDI A5 Sportback 2.0 TFSI multitronic,8900,CHF,08.2010,1267 Vich,180'000,Benzin,180.0
+657,AUDI A5 Sportback 2.0 TDI Sport quattro S-tronic,30900,CHF,04.2018,8107 Buchs,79'000,Diesel,190.0
+658,AUDI A5 Sportback 2.0 TDI S-Line quattro S-tronic,14950,CHF,09.2013,4573 Lohn-Ammannsegg,164'000,Diesel,177.0
+659,AUDI A5 Sportback 2.0 TDI Sport quattro S-tronic,39900,CHF,09.2019,4632 Trimbach,59'290,Diesel,190.0
+660,AUDI A5 Cabriolet 3.0 TDI clean quattro S-tronic,24900,CHF,10.2015,6948 Porza,77'000,Diesel,245.0
+661,AUDI A5 Sportback 3.0 TDI quattro S-tronic,19900,CHF,04.2013,8051 Zürich,147'000,Diesel,245.0
+662,AUDI A5 Sportback 40 TFSI S-Line S-tronic quattro,67900,CHF,06.2022,8734 Ermenswil,12'800,Benzin,204.0
+663,AUDI A5 Sportback 3.0 TDI quattro S-tronic,17900,CHF,03.2010,2544 Bettlach,147'600,Diesel,239.0
+664,AUDI A5 Coupé 2.0 TFSI multitronic,22900,CHF,06.2015,8953 Dietikon,83'000,Benzin,225.0
+665,AUDI A5 Sportback 2.0 TFSI quattro S-tronic,8900,CHF,10.2010,1950 Sion,198'500,Benzin,211.0
+666,AUDI A5 Sportback 2.0 TDI S-tronic ** 5-Plätzer ** Panorama-Glasdach **,32500,CHF,11.2017,2540 Grenchen (SO),73'900,Diesel,190.0
+667,AUDI A5 Sportback 2.0 TDI quattro S-tronic,21900,CHF,06.2016,8302 Kloten/Neben Coop Tankstelle,110'250,Diesel,190.0
+668,AUDI A5 Cabriolet 2.0 TFSI multitronic,10850,CHF,04.2011,5620 Bremgarten,189'000,Benzin,211.0
+669,AUDI A5 Cabriolet 2.0 TDI quattro,28900,CHF,05.2016,8808 Pfäffikon SZ,61'000,Diesel,190.0
+670,AUDI A5 Sportback 2.0 TDI Sport S-tronic,25900,CHF,03.2017,9500 Wil,156'000,Diesel,190.0
+671,AUDI A5 Sportback 2.0 TDI Sport quattro S-tronic,38900,CHF,04.2018,2543 Lengnau,127'000,Diesel,190.0
+672,AUDI A5 Sportback S LINE 2.0 TDI quattro S-tronic,19900,CHF,05.2015,8953 Dietikon,125'000,Diesel,190.0
+673,AUDI A5 Coupé 3.0 TDI quattro tiptronic,11900,CHF,09.2008,1890 Saint-Maurice,136'800,Diesel,239.0
+674,AUDI A5 Cabriolet 3.0 TDI quattro S-tronic,12490,CHF,03.2010,4658 Däniken,175'900,Diesel,239.0
+675,AUDI A5 Sportback 3.0 TDI quattro S-tronic,17900,CHF,05.2012,1027 Lonay,114'000,Diesel,245.0
+676,AUDI A5 Cabriolet 2.0 TFSI Sport Quattro S-Tronic,42900,CHF,03.2018,8280 Kreuzlingen,52'900,Benzin,252.0
+677,AUDI A5 Cabriolet 2.0 TFSI quattro S-tronic,42900,CHF,03.2018,3645 Gwatt (Thun),43'100,Benzin,252.0
+678,AUDI A5 Sportback 3.0 TDI Sport S-tronic,33900,CHF,08.2017,9230 Flawil,106'500,Diesel,218.0
+679,AUDI A5 Coupé 2.0 TFSI **S-Line**Sport quattro S-tronic,30900,CHF,11.2016,8340 Hinwil ZH,84'400,Benzin,252.0
+680,AUDI A5 Cabriolet 2.0 TFSI multitronic,12900,CHF,04.2011,4900 Langenthal,103'230,Benzin,211.0
+681,AUDI A5 Cabriolet 1.8 TFSI multitronic,16450,CHF,04.2014,9308 Lömmenschwil,122'000,Benzin,170.0
+682,AUDI A5 Sportback 2.0 TDI quattro S-tronic,31900,CHF,12.2018,6030 Ebikon,65'160,Diesel,190.0
+683,AUDI A5 Sportback 2.0 TFSI quattro S-tronic**S-LINE**,22900,CHF,03.2016,5043 Holziken,122'000,Benzin,230.0
+684,AUDI A5 Sportback 3.0 TFSI S Line quattro S-tronic,15980,CHF,10.2014,6330 Cham/Zug,185'000,Benzin,272.0
+685,AUDI A5 Sportback 40 TDI Sport quattro S-tronic,29700,CHF,09.2019,1814 La Tour de Peilz,95'000,Diesel,190.0
+686,AUDI A5 Sportback 3.0 TDI quattro S-tronic,16900,CHF,01.2012,8051 Zürich,185'000,Diesel,245.0
+687,AUDI A5 Sportback 40 TDI Sport quattro S-tronic,27900,CHF,07.2019,2540 Grenchen (SO),179'000,Diesel,190.0
+688,AUDI A5 Coupé 3.0 TDI quattro tiptronic,9900,CHF,08.2008,4665 Oftringen,143'000,Diesel,239.0
+689,AUDI A5 Cabriolet 40 TFSI S-tronic,37500,CHF,07.2020,8716 Schmerikon,33'500,Benzin,190.0
+690,AUDI A5 Cabriolet 40 TFSI S-Line S-tronic quattro,54980,CHF,01.2022,6330 Cham/Zug,23'000,Benzin,204.0
+691,AUDI A5 Cabriolet 2.0 TFSI quattro S-tronic,13900,CHF,05.2011,8107 Buchs,114'000,Benzin,211.0
+692,AUDI A5 Cabriolet 2.0 TFSI quattro S-tronic,19900,CHF,07.2013,8620 Wetzikon,125'000,Benzin,211.0
+693,AUDI A5 Sportback 2.0 TFSI,15500,CHF,04.2010,8716 Schmerikon,149'800,Benzin,180.0
+694,AUDI A5 Sportback 40TFSI g-tron Sport S-tronic,39980,CHF,08.2020,6330 Cham/Zug,5'500,Übrige,170.0
+695,AUDI A5 Cabriolet 2.0 TFSI multitronic,11900,CHF,04.2010,4932 Lotzwil,169'000,Benzin,211.0
+696,AUDI A5 Sportback 3.0 TDI Design quattro tiptronic,41500,CHF,06.2018,8554 Bonau,102'111,Diesel,286.0
+697,AUDI A5 Sportback 2.0 TFSI**S-Line** Sport quattro S-tronic,33900,CHF,03.2018,8340 Hinwil ZH,52'400,Benzin,252.0
+698,AUDI A5 Cabriolet 1.8 TFSI,13800,CHF,06.2010,1247 Anières,105'000,Benzin,160.0
+699,AUDI A5 Sportback 3.0 TDI S- Line Sport quattro S-tronic,39900,CHF,12.2017,7320 Sargans,69'300,Diesel,218.0
+700,AUDI A5 Sportback 40 TDI S-Line Attraction quattro S-tronic,54990,CHF,09.2022,9300 Wittenbach,19'900,Diesel,204.0
+701,AUDI A5 Cabriolet 1.8 TFSI,7600,CHF,05.2010,5330 Zurzach ,206'000,Benzin,160.0
+702,AUDI A5 Sportback 2.0 TDI Design quattro S-tronic ** Voll-Leder Ausstattung **,28900,CHF,03.2017,2540 Grenchen (SO),137'000,Diesel,190.0
+703,AUDI A5 Sportback 2.0 TDI Sport S-tronic,31950,CHF,03.2017,3178 Bösingen,107'000,Diesel,190.0
+704,AUDI A5 Cabriolet 1.8 TFSI,10350,CHF,10.2010,8492 Wila,166'000,Benzin,160.0
+705,AUDI A5 Sportback 2.0 TFSI quattro S-tronic,5990,CHF,01.2010,8604 Volketswil,234'000,Benzin,211.0
+706,AUDI A5 Sportback 3.0 TDI Sport quattro S-tronic,36800,CHF,03.2017,8730 Uznach SG,81'000,Diesel,218.0
+707,AUDI A5 Cabriolet 1.8 TFSI,12900,CHF,04.2014,6500 Bellinzona,171'900,Benzin,170.0
+708,AUDI A5 Coupé 2.0 TFSI quattro S-tronic,12900,CHF,08.2011,1206 Geneve ,152'000,Benzin,211.0
+709,AUDI A5 Coupé 40 TDI Sport quattro tiptronic,45890,CHF,11.2019,8304 Wallisellen,73'000,Diesel,231.0
+710,AUDI A5 Coupé 3.0 TDI quattro S-tronic,19990,CHF,02.2014,8370 Sirnach,141'000,Diesel,245.0
+711,AUDI A5 Coupé 3.0 TDI quattro S-tronic,18900,CHF,11.2012,8406 Winterthur,150'000,Diesel,245.0
+712,AUDI A5 Coupé 2.0 TFSI,13999,CHF,12.2008,1227 Les Acacias ,98'000,Benzin,211.0
+713,AUDI A5 Coupé 2.0 TFSI Sport qu. S-Tronic,37900,CHF,03.2017,9450 Altstätten,34'992,Benzin,252.0
+714,AUDI A5 Sportback 3.0 TDI quattro S-tronic,25900,CHF,10.2011,4622 Egerkingen,87'985,Diesel,245.0
+715,AUDI A5 Cabriolet 2.0 TFSI Sport S-tronic,29700,CHF,08.2017,8800 Thalwil,79'000,Benzin,190.0
+716,AUDI A5 Sportback 2.0 TDI Sport quattro S-tronic,38500,CHF,05.2018,9300 Wittenbach,59'900,Diesel,190.0
+717,AUDI A5 Coupé 3.0 TDI quattro tiptronic,5900,CHF,02.2009,4612 Wangen b. Olten,250'000,Diesel,239.0
+718,AUDI A5 Cabriolet 2.0 TFSI,32890,CHF,10.2017,8304 Wallisellen,103'750,Benzin,190.0
+719,AUDI A5 Sportback 3.0 TDI Sport S-tronic,33890,CHF,03.2017,8304 Wallisellen,111'000,Diesel,218.0
+720,AUDI A5 Sportback S-Line 2.0 TDI Sport quattro S-tronic,24900,CHF,04.2017,8051 Zürich,182'000,Diesel,190.0
+721,AUDI A5 Sportback 1.8 TFSI multitronic,11999,CHF,05.2011,6033 Buchrain,100'093,Benzin,160.0
+722,AUDI A5 Sportback 2.0 TFSI Design,24900,CHF,11.2017,8957 Spreitenbach,100'821,Benzin,190.0
+723,AUDI A5 Coupé 2.0 TDI Design S-tronic,23800,CHF,07.2017,8330 Pfäffikon ZH,187'100,Diesel,190.0
+724,AUDI A5 Cabriolet 1.8 TFSI,9500,CHF,03.2010,8108 Dällikon (ZH),100'000,Benzin,160.0
+725,AUDI A5 Sportback 2.0 TFSI Design S-tronic,30900,CHF,10.2017,8107 Buchs,49'000,Benzin,190.0
+726,AUDI A5 Sportback 2.0 TDI S-Line multitronic,21990,CHF,08.2016,1217 Meyrin,133'500,Diesel,150.0
+727,AUDI A5 Sportback 40 TFSI S-tronic,39490,CHF,09.2020,8593 Kesswil,30'500,Benzin,190.0
+728,AUDI A5 Cabriolet 1.8 TFSI 170 M-Tronic,18900,CHF,03.2015,6055 Alpnach Dorf,100'000,Benzin,170.0
+729,AUDI A5 Cabriolet 3.0 TDI quattro S-tronic,8999,CHF,10.2010,9430 St. Margrethen,320'000,Diesel,239.0
+730,AUDI A5 Coupé 2.7 TDI multitronic,20000,CHF,08.2008,6102 Malters,207'777,Diesel,190.0
+731,AUDI A5 Sportback 2.0 TFSI,16900,CHF,03.2010,9500 Wil,59'000,Benzin,180.0
+732,AUDI A5 Cabriolet 2.0 TFSI,8999,CHF,05.2009,1950 Sion,197'000,Benzin,211.0
+733,AUDI A5 Sportback 40 TDI S-Line Quattro,39900,CHF,04.2019,3421 Lyssach,67'530,,
+734,AUDI A5 Coupé 2.0 TFSI quattro,12500,CHF,05.2009,8135 Langnau am Albis,120'000,Benzin,211.0
+735,AUDI A5 Sportback 2.0 TFSI quattro S-tronic,18500,CHF,03.2011,8155 Niederhasli,66'000,Benzin,211.0
+736,AUDI A5 Coupé 2.0 TFSI quattro,13500,CHF,10.2012,8910 Affoltern am Albis,184'000,Benzin,211.0
+737,AUDI A5 Cabriolet 2.0 TDI multitronic,16900,CHF,04.2014,8620 Wetzikon,153'000,Diesel,177.0
+738,AUDI A5 Sportback S-Line 1.8 FSI multitronic,21900,CHF,12.2016,8153 Rümlang (Zürich),69'000,Benzin,144.0
+739,AUDI A5 Sportback 1.8 TFSI multitronic,10900,CHF,05.2013,1615 Bossonnens,250'000,Benzin,170.0
+740,AUDI A5 Coupé 2.0 TFSI,8999,CHF,08.2011,5322 Koblenz,229'000,Benzin,180.0
+741,AUDI A5 Sportback 2.0 TDI Design quattro S-tronic,33900,CHF,12.2017,8153 Rümlang (Zürich),57'000,Diesel,190.0
+742,AUDI A5 Cabriolet 3.0 TDI clean quattro S-tronic,19900,CHF,07.2014,8841 Gross,115'928,Diesel,245.0
+743,AUDI A5 Coupé 2.0 TFSI Sport quattro S-Line*,35590,CHF,10.2017,6370 Stans,75'000,Benzin,252.0
+744,AUDI A5 Coupé 3.2 FSI quattro,9950,CHF,08.2008,8105 Regensdorf,163'000,Benzin,265.0
+745,AUDI A5 Cabriolet 40 TFSI advanced S-tronic,49950,CHF,03.2022,6594 Contone,6'813,Benzin,204.0
+746,AUDI A5 Cabriolet 3.0 TDI quattro S-tronic,11800,CHF,12.2010,1214 Vernier,185'000,Diesel,239.0
+747,AUDI A5 Coupé 2.0 TFSI quattro S-tronic,13800,CHF,07.2011,8196 Wil ZH / bei Eglisau ,167'000,Benzin,211.0
+748,AUDI A5 Sportback 3.0 TDI quattro S-tronic,16500,CHF,09.2012,7000 Chur,195'000,Diesel,245.0
+749,AUDI A5 Cabriolet 2.0 TFSI multitronic,10900,CHF,03.2010,2504 Biel,136'000,Benzin,211.0
+750,AUDI A5 Sportback 2.0 TFSI multitronic,9900,CHF,08.2010,5037 Muhen,100'000,Benzin,180.0
+751,AUDI A5 Coupé 3.0 TDI quattro S-tronic,8900,CHF,05.2011,6208 Oberkirch,288'500,Diesel,239.0
+752,AUDI A5 Sportback 2.0 TDI quattro S-tronic,24900,CHF,02.2016,8105 Regensdorf,80'000,Diesel,190.0
+753,AUDI A5 Cabriolet 2.0 TDI,11900,CHF,03.2010,1483 Montet ,192'000,Diesel,170.0
+754,AUDI A5 Sportback 2.0 TFSI,6200,CHF,12.2009,5416 Kirchdorf AG,258'900,Benzin,211.0
+755,AUDI A5 Sportback 2.0 TFSI quattro,11999,CHF,01.2011,2108 Couvet NE,181'500,Benzin,211.0
+756,AUDI A5 Cabriolet 3.0 TDI quattro S-tronic,10950,CHF,04.2010,8492 Wila,215'000,Diesel,239.0
+757,AUDI A5 Coupé 2.0 TFSI,6900,CHF,01.2009,2525 Le Landeron,143'000,Benzin,180.0
+758,AUDI A5 Coupé 3.0 TDI quattro S-tronic,8900,CHF,11.2010,1852 Roche,228'000,Diesel,239.0
+759,AUDI A5 Coupé 3.0 TDI S.Line quattro tiptronic,5990,CHF,08.2009,8105 REGENSDORF,359'800,Diesel,239.0
+760,AUDI A5 Sportback 2.0 TDI,14900,CHF,06.2013,8493 Saland/Dillhaus,126'000,Diesel,143.0
+761,AUDI A5 Sportback 40 TDI S-Line quattr S-tronic,33444,CHF,04.2019,3052 Zollikofen,118'000,Diesel,190.0
+762,AUDI A5 Coupé 3.2 FSI quattro tiptronic,7500,CHF,04.2010,1020 Renens VD,239'000,Benzin,265.0
+763,AUDI A5 Sportback 2.0 TDI quattro S-tronic,16800,CHF,07.2015,8953 Dietikon,177'700,Diesel,190.0
+764,AUDI A5 Sportback 1.8 TFSI multitronic,13999,CHF,10.2012,9445 Rebstein SG,191'000,Benzin,170.0
+765,AUDI A5 Sportback 3.0 TDI quattro S-tronic,15999,CHF,12.2010,4932 Lotzwil,150'000,Diesel,239.0
+766,AUDI A5 Sportback 2.0 TFSI quattro S-tronic,30990,CHF,05.2018,1784 Wallenried / Courtepin,132'000,Benzin,252.0
+767,AUDI A5 Sportback 2.0 TDI quattro S-tronic,24900,CHF,03.2015,2802 Develier,137'000,Diesel,190.0
+768,AUDI A5 Sportback 2.0 TDI S line Sport,28900,CHF,10.2017,6805 Mezzovico,84'900,Diesel,190.0
+770,AUDI A5 Sportback 2.0 TFSI quattro S-tronic,9900,CHF,10.2009,9445 Rebstein,134'000,Benzin,211.0
+771,AUDI A5 Sportback 2.7 TDI multitronic,14999,CHF,12.2010,9443 Widnau,164'500,Diesel,190.0
+772,AUDI A5 Coupé 1.8 TFSI,5500,CHF,07.2008,1020 Renens,234'000,Benzin,170.0
+773,AUDI A5 Sportback 3.0 TDI quattro S-tronic,15900,CHF,06.2013,4665 Oftringen,216'000,Diesel,245.0
+774,AUDI A5 Cabriolet 2.7 TDI multitronic S-Line,8700,CHF,05.2011,4806 Wikon,218'000,Diesel,190.0
+775,AUDI A5 Sportback 45 TFSI S-tronic Sport quattro,59000,CHF,07.2020,9200 Gossau SG,89'900,Benzin,245.0
+776,AUDI A5 Cabriolet S-Line 3.0 TDI quattro S-tronic,19500,CHF,06.2012,9434 Au / Rheintal / SG,122'450,Diesel,245.0
+777,AUDI A5 Sportback 2.0 TDI S-tronic,29900,CHF,10.2017,4653 Obergösgen,92'300,Diesel,190.0
+778,AUDI A5 Cabriolet 2.0 TFSI Sport S-Line,39900,CHF,08.2017,6010 Kriens,38'990,Benzin,190.0
+779,AUDI A5 Sportback 2.0 TFSI Design S-Tronic CH-Fahrzeug,31999,CHF,06.2018,8280 Kreuzlingen,99'852,Benzin,190.0
+780,AUDI A5 Sportback 2.0 TFSI Sport S-tronic,30900,CHF,08.2017,4653 Obergösgen,75'500,Benzin,190.0
+781,AUDI A5 Cabriolet 2.0 TFSI 211 M-Tronic,14900,CHF,05.2010,5502 Hunzenschwil,144'500,Benzin,211.0
+782,AUDI A5 Sportback 3.0 TDI quattro S-tronic,21900,CHF,06.2013,8153 Rümlang (Zürich),130'000,Diesel,245.0
+783,AUDI A5 Sportback 2.0 TDI 150 PS M-Tronic,18500,CHF,03.2015,6010 Kriens,159'200,Diesel,150.0
+784,AUDI A5 Sportback 3.0 V6 TDI quattro S-Tronic,18950,CHF,12.2009,5502 Hunzenschwil,129'500,Diesel,239.0
+785,AUDI A5 Sportback 40 TDI quattro S-tronic,45800,CHF,08.2020,8153 Rümlang,23'420,Diesel,190.0
+786,AUDI A5 Sportback 3.0 TFSI quattro S-tronic,16900,CHF,03.2012,4625 Oberbuchsiten,147'000,Benzin,272.0
+787,AUDI A5 Sportback 3.0 TDI quattro S-tronic,12900,CHF,12.2013,1615 Bossonnens,211'000,Diesel,245.0
+788,AUDI A5 Coupé 1.8 TFSI S-LINE!,8900,CHF,02.2008,6260 Reiden / 10 Min. von Oftringen AG,187'000,Benzin,170.0
+789,AUDI A5 Coupé 2.0 TFSI,10990,CHF,06.2009,9543 St.Margarethen TG (Münchwillen),116'900,Benzin,180.0
+790,AUDI A5 Sportback 3.0 TDI quattro S-tronic,19900,CHF,01.2012,4632 Trimbach,137'979,Diesel,245.0
+791,AUDI A5 Cabriolet 2.0 TFSI Sport quattro S-tronic,49900,CHF,07.2019,9200 Gossau SG,24'900,Benzin,252.0
+792,AUDI A5 Sportback 3.0 TDI S-LINE Design quattro S-tronic,39900,CHF,04.2017,8307 Illnau-Effretikon,78'000,Diesel,218.0
+793,AUDI A5 Sportback 3.0 TDI quattro S-tronic,19990,CHF,11.2011,4600 Olten,138'000,Diesel,245.0
+794,AUDI A5 Cabriolet 2.0 TDI multitronic,16999,CHF,05.2012,6963 Pregassona,136'405,Diesel,177.0
+795,AUDI A5 Sportback 3.0 TDI quattro S-tronic,14400,CHF,05.2010,1806 St-Légier-La Chiésaz,155'400,Diesel,239.0
+796,AUDI A5 Sportback 2.0 TDI quattro S-tronic,21400,CHF,12.2014,3604 Thun,123'400,Diesel,190.0
+797,AUDI A5 Sportback 2.0 TFSI quattro S-tronic,10900,CHF,06.2010,1852 Roche VD,160'000,Benzin,211.0
+798,AUDI A5 Cabriolet 40 TFSI S-Line S-tronic quattro,53900,CHF,05.2021,8954 Geroldswil ,23'500,Benzin,204.0
+800,AUDI A5 Sportback 2.0 TFSI quattro S-tronic,13800,CHF,12.2013,1030 Bussigny,196'000,Benzin,225.0
+801,AUDI A5 Coupé 3.0 TDI quattro S-tronic,21900,CHF,06.2012,4632 Trimbach,108'352,Diesel,245.0
+802,AUDI A5 Coupé 1.8 TFSI multitronic,3980,CHF,09.2010,1806 St-Legier-Chiésaz,258'000,Benzin,160.0
+803,AUDI A5 Cabriolet 2.0 TDI S-tronic,28990,CHF,04.2017,2557 Studen,108'525,Diesel,190.0
+804,AUDI A5 Coupé 3.0 TDI quattro tiptronic,10900,CHF,09.2008,9553 Bettwiesen,192'500,Diesel,285.0
+805,AUDI A5 Cabrio 1.8 TFSI Multitronic,29800,CHF,05.2016,8048 Zürich-Letzigrund,68'500,Benzin,177.0
+806,AUDI A5 Sportback 3.0 TDI *Sport S-Line / 272PS* quattro tiptronic,33990,CHF,06.2017,5606 Dintikon AG,98'590,Diesel,272.0
+807,AUDI A5 starker 211PS Cabriolet 2.0 TFSI multitronic,17444,CHF,05.2009,8965 Berikon,78'200,Benzin,211.0
+808,AUDI A5 Sportback 2.0 TFSI Sport quattro S-Tronic,36900,CHF,07.2018,1018 Lausanne,56'000,Benzin,252.0
+809,AUDI A5 Cabriolet 3.0 TDI quattro S-tronic,11999,CHF,11.2009,3855 Brienz BE,242'723,Diesel,239.0
+810,AUDI A5 Sportback 45 TDI advanced quattro tiptronic,49800,CHF,08.2021,9430 St Margrethen,26'980,Diesel,231.0
+811,AUDI A5 Sportback 1.8 TFSI multitronic,12950,CHF,08.2012,8105 Regensdorf,134'353,Benzin,170.0
+812,AUDI A5 Cabriolet 1.8 TFSI,19900,CHF,02.2013,9243 Jonschwil,69'000,Benzin,170.0
+813,AUDI A5 Sportback 3.0 TDI S-Line quattro S-tronic,39900,CHF,09.2017,6026 Rain,48'920,Diesel,218.0
+814,AUDI A5 Cabriolet 2.0 TFSI S-Line quattro S-tronic,18900,CHF,05.2012,4653 Obergösgen,83'200,Benzin,211.0
+815,AUDI A5 Cabrio 2.0 TFSI Spo.qu,36900,CHF,12.2017,8048 Zürich Farbhof,80'000,Benzin,252.0
+816,AUDI A5 Sportback 2.0 TFSI,10900,CHF,10.2009,1180 Rolle,183'500,Benzin,211.0
+817,AUDI A5 Sportback 2.0 TFSI quattro S-tronic,15900,CHF,06.2011,1525 Seigneux VD,107'000,Benzin,211.0
+818,AUDI A5 Cabriolet 2.0 TFSI multitronic,16900,CHF,01.2012,8153 Rümlang (Zürich),135'000,Benzin,211.0
+819,AUDI A5 Coupé 3.0 TDI quattro,8900,CHF,07.2007,8340 Hinwil,200'500,Diesel,239.0
+820,AUDI A5 Coupé 3.0 TDI quattro,7800,CHF,10.2008,2504 Biel/Bienne,229'000,Diesel,239.0
+799,AUDI A5 Sportback 40 TFSI S-Line S-tronic quattro,76100,CHF,05.2023,8954 Geroldswil ,35,Benzin,204.0
+822,AUDI A5 Coupé 3.0 TDI Sport quattro S-tronic,29900,CHF,12.2016,6340 Baar,153'900,Diesel,218.0
+823,AUDI A5 Cabriolet 2.0 TFSI,12900,CHF,05.2009,6210 Sursee,110'500,Benzin,211.0
+824,AUDI A5 Cabriolet 2.0 TFSI 252 PS S-Line quattro S-tronic,31900,CHF,06.2018,4665 Oftringen,121'800,Benzin,252.0
+825,AUDI A5 Sportback 2.0 TFSI quattro S-tronic,16800,CHF,11.2013,1030 Bussigny,100'000,Benzin,225.0
+826,AUDI A5 Cabriolet 2.0 TFSI quattro S-tronic,10900,CHF,04.2010,8735 St. Gallenkappel,124'000,Benzin,211.0
+827,AUDI A5 Coupé 3.0 TDI S-Line quattro tiptronic,19900,CHF,07.2009,4657 Dulliken,150'000,Diesel,239.0
+828,AUDI A5 Coupé 45 TFSI S-tronic Sport quattro,49900,CHF,06.2019,1219 Aïre,21'000,Benzin,245.0
+829,AUDI A5 Coupé 1.8 TFSI,19900,CHF,02.2014,8620 Wetzikon,60'000,Benzin,170.0
+830,AUDI A5 Cabriolet 3.2 FSI quattro S-tronic,7790,CHF,04.2010,6260 Reiden,288'000,Benzin,265.0
+831,AUDI A5 Coupé 1.8 TFSI multitronic,7899,CHF,04.2012,4806 Wikon,191'000,Benzin,170.0
+832,AUDI A5 Cabriolet 2.0 TFSI,6900,CHF,06.2011,1860 Aigle,242'591,Benzin,211.0
+833,AUDI A5 Sportback 3.0 TDI quattro S-tronic,20900,CHF,01.2012,9475 Sevelen,166'000,Diesel,245.0
+834,AUDI A5 Sportback 1.8 TFSI multitronic,18900,CHF,01.2017,6500 Bellinzona,121'000,Benzin,144.0
+836,AUDI A5 Sportback 1.8 TFSI multitronic,10500,CHF,04.2014,8902 Urdorf,201'500,Benzin,170.0
+837,AUDI A5 Cabriolet 2.0 TDI,14500,CHF,04.2010,4923 Wynau,158'500,Diesel,170.0
+838,AUDI A5 Cabriolet 2.0 TFSI multitronic,14900,CHF,05.2012,8424 Embrach,66'980,Benzin,180.0
+839,AUDI A5 Cabriolet 2.0 TFSI Sport quattro S-tronic,45900,CHF,08.2018,2802 Develier,40'000,Benzin,252.0
+840,AUDI A5 Sportback 2.0 TDI,15900,CHF,11.2010,8957 Spreitenbach,92'500,Diesel,170.0
+841,AUDI A5 Coupé 2.0 TFSI quattro,11300,CHF,01.2010,1763 Granges-Paccot,172'000,Benzin,211.0
+842,AUDI A5 Cabriolet 1.8 TFSI,28900,CHF,07.2014,1400 Yverdon-les-Bains,69'033,Benzin,170.0
+843,AUDI A5 Sportback 2.0 TDI,19800,CHF,07.2011,6015 Reussbühl/Luzern,131'800,Diesel,170.0
+844,AUDI A5 Cabriolet 2.0 TFSI quattro S-tronic,23900,CHF,03.2015,8635 Dürnten (Hinwil),124'000,Benzin,225.0
+845,AUDI A5 Coupé 2.7 TDI multitronic,7200,CHF,01.2008,1728 Rossens (FR),234'000,Diesel,190.0
+846,AUDI A5 Sportback 2.0 TFSI quattro S-tronic,15000,CHF,08.2013,8200 Schaffhausen - Siblingen,88'000,Benzin,211.0
+847,AUDI A5 Coupé 2.0 TFSI,17900,CHF,08.2013,1216 Cointrin,83'263,Benzin,225.0
+848,AUDI A5 Sportback 3.0 TDI quattro S-tronic,19000,CHF,01.2013,9465 Salez,148'000,Diesel,245.0
+849,AUDI A5 Cabriolet 1.8 TFSI,19800,CHF,02.2014,4461 Böckten,73'000,Benzin,170.0
+850,AUDI A5 Sportback 2.0 TFSI quattro S-tronic,12200,CHF,09.2009,4665 Oftringen,247'000,Benzin,211.0
+851,AUDI A5 Coupé 2.0 TFSI,5750,CHF,09.2010,1700 Fribourg,189'000,Benzin,180.0
+852,AUDI A5 Sportback 2.0 TDI S-Line Sport quattro S-tronic,33899,CHF,11.2017,6014 Luzern,99'999,Diesel,190.0
+853,AUDI A5 Cabriolet 2.0 TFSI multitronic,9900,CHF,01.2011,5502 Hunzenschwil ,121'600,Benzin,211.0
+854,AUDI A5 Cabriolet 2.0 TFSI quattro S-tronic,14990,CHF,12.2010,3297 Leuzigen,124'000,Benzin,211.0
+855,AUDI A5 Coupé 3.2 FSI multitronic-Automatic Klimaautomatic Navi Teilledersitze Parksensor,5500,CHF,02.2008,4653 Obergösgen,372'356,Benzin,265.0
+856,AUDI A5 Sportback 50 TDI Design quattro tiptronic,37890,CHF,02.2019,6210 Sursee,104'800,Diesel,286.0
+857,AUDI A5 Cabriolet 40 TFSI advanced Attraction S-tronic - Virtual Cockpit - Leder - Kamera - 204 PS,42800,CHF,05.2021,8620 Wetzikon,32'500,Benzin,204.0
+858,AUDI A5 Coupé 2.0 TDI quattro S-tronic,18200,CHF,12.2014,8302 Kloten,108'500,Diesel,190.0
